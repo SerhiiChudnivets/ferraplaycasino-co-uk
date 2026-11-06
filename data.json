@@ -1,11 +1,11 @@
 {
   "name": "ferraplaycasino.co.uk",
   "site_name": "FerraPlay Casino - Bonus 150% up to €1000 + 100 FS",
-  "html_head": "<meta name=\"google-site-verification\" content=\"c1KhRHy6POzYwCbUvGPY67x4u_kbjYfov8tASlJIC70\" />\n<link rel=\"canonical\" href=\"ferraplaycasino.co.uk\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta property=\"og:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n<meta property=\"og:url\" content=\"https://ferraplaycasino.co.uk\">\n<meta property=\"og:site_name\" content= \"FerraPlay Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta name=\"twitter:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"ApzN7AN7zPnZ16yjQwsis7TY3ESpeSHXIGpIRDhWHi4\" />\n<link rel=\"canonical\" href=\"ferraplaycasino.co.uk\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta property=\"og:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n<meta property=\"og:url\" content=\"https://ferraplaycasino.co.uk\">\n<meta property=\"og:site_name\" content= \"FerraPlay Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta name=\"twitter:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n",
   "url": "ferraplaycasino.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -204,24 +204,21 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/2e1f0d9522ae8dcfb709cc7d29b53e54.webp",
-      "name": "Welcome Pack Up to £5000 + 500 FS",
-      "Name": "Welcome Pack Up to £5000 + 500 FS",
-      "logo_alt": "Welcome Bonus"
+      "logo": "/uploads/84124f8461004555701ba782c58ff16f.webp",
+      "name": " 100% BONUS 200% Up to €2000",
+      "Name": " 100% BONUS 200% Up to €2000"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/4387701e32901123b88b30c38d2695b0.webp",
-      "name": "Wednesday Free Spins Up to 150 FS",
-      "Name": "Wednesday Free Spins Up to 150 FS",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/e6eea277972c4bb595945fce921c43ea.webp",
+      "name": "MONDAY CASHBACK GET UP TO 20%",
+      "Name": "MONDAY CASHBACK GET UP TO 20%"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/3363a02b633954efffdf51bc4c68773a.webp",
-      "name": "Fortune Wheel Cash or FS prizes",
-      "Name": "Fortune Wheel Cash or FS prizes",
-      "logo_alt": "Sport Bonus"
+      "logo": "/uploads/e6eea277972c4bb595945fce921c43ea.webp",
+      "name": "WEEKEND RELOAD  100% BONUS Up to €500",
+      "Name": "WEEKEND RELOAD  100% BONUS Up to €500"
     }
   ],
   "Reviews": null,
@@ -247,8 +244,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:23:36.361Z",
+  "_generated_at": "2026-11-06T15:26:58.069Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:23:37.018Z",
-  "_deploy_trigger": "sq02ae"
+  "_last_deploy": "2026-11-06T15:26:58.675Z",
+  "_deploy_trigger": "sar5q"
 }
