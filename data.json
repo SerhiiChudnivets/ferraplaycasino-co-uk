@@ -77,8 +77,8 @@
   "home_name": "FerraPlay Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#f05924",
-  "secondary_background": "#e3dfde",
+  "main_background": "#e3dfde",
+  "secondary_background": "#f05924",
   "button_background": "#008044",
   "button_text_color": "#eef1f6",
   "text_color": "#000000",
@@ -247,8 +247,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:10:16.576Z",
+  "_generated_at": "2026-11-06T15:12:11.268Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:10:17.299Z",
-  "_deploy_trigger": "9s6tg"
+  "_last_deploy": "2026-11-06T15:12:11.965Z",
+  "_deploy_trigger": "sibscga"
 }
