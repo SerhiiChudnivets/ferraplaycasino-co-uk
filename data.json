@@ -80,7 +80,7 @@
   "main_background": "#e3dfde",
   "secondary_background": "#f05924",
   "button_background": "#f5f5f5",
-  "button_text_color": "#eef1f6",
+  "button_text_color": "#000000",
   "text_color": "#000000",
   "color_highlight_text": "#ad5c00",
   "color_main_btn_text": "#ebebef",
@@ -247,8 +247,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:16:07.661Z",
+  "_generated_at": "2026-11-06T15:19:33.416Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:16:08.352Z",
-  "_deploy_trigger": "ffuuul"
+  "_last_deploy": "2026-11-06T15:19:34.086Z",
+  "_deploy_trigger": "dx41as"
 }
