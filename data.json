@@ -63,10 +63,10 @@
   "hero_subtitle": "Welcome Bonus",
   "hero_badge": "Top Games & Big Prizes",
   "cta_text": "Go",
-  "tagline": "Up to €3250 + 150 Free Spins",
+  "tagline": "400% Up to €3250 + 150 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. FerraPlay Casino. All rights reserved",
-  "popup_text": "Bonus 150% up to €1000 + 100 FS",
+  "popup_text": "1st Bonus 150% up to €1000 + 100 FS",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
@@ -244,8 +244,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:26:58.069Z",
+  "_generated_at": "2026-11-06T15:28:15.359Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:26:58.675Z",
-  "_deploy_trigger": "sar5q"
+  "_last_deploy": "2026-11-06T15:28:16.105Z",
+  "_deploy_trigger": "r2p9yi"
 }
