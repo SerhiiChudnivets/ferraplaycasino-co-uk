@@ -1,7 +1,7 @@
 {
   "name": "ferraplaycasino.co.uk",
   "site_name": "FerraPlay Casino - Bonus 150% up to €1000 + 100 FS",
-  "html_head": "<meta name=\"google-site-verification\" content=\"ApzN7AN7zPnZ16yjQwsis7TY3ESpeSHXIGpIRDhWHi4\" />\n<link rel=\"canonical\" href=\"ferraplaycasino.co.uk\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta property=\"og:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n<meta property=\"og:url\" content=\"https://ferraplaycasino.co.uk\">\n<meta property=\"og:site_name\" content= \"FerraPlay Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta name=\"twitter:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"ApzN7AN7zPnZ16yjQwsis7TY3ESpeSHXIGpIRDhWHi4\" />\n<link rel=\"canonical\" href=\"https://ferraplaycasino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta property=\"og:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n<meta property=\"og:url\" content=\"https://ferraplaycasino.co.uk\">\n<meta property=\"og:site_name\" content= \"FerraPlay Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"FerraPlay Casino - Bonus 150% up to €1000 + 100 FS\">\n<meta name=\"twitter:description\" content=\"FerraPlay brings slots, live entertainment and exclusive rewards together. Explore account features and discover what awaits you.\">\n",
   "url": "ferraplaycasino.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
@@ -244,8 +244,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:28:15.359Z",
+  "_generated_at": "2026-11-06T15:29:34.194Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:28:16.105Z",
-  "_deploy_trigger": "r2p9yi"
+  "_last_deploy": "2026-11-06T15:29:34.801Z",
+  "_deploy_trigger": "fwsunr"
 }
