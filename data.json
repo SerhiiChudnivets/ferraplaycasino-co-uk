@@ -84,7 +84,7 @@
   "text_color": "#000000",
   "color_highlight_text": "#ad5c00",
   "color_main_btn_text": "#ebebef",
-  "cta_background": "#008044",
+  "cta_background": "#e3e8e6",
   "logo": {
     "url": "/uploads/ferraplay-casino-logo.webp"
   },
@@ -247,8 +247,8 @@
       "question": "How do I regain access to my FerraPlay account?"
     }
   ],
-  "_generated_at": "2026-11-06T15:12:11.268Z",
+  "_generated_at": "2026-11-06T15:13:49.601Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-06T15:12:11.965Z",
-  "_deploy_trigger": "sibscga"
+  "_last_deploy": "2026-11-06T15:13:50.327Z",
+  "_deploy_trigger": "9ksik"
 }
