@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://winuzacasino.org.uk/sitemap.xml
+Sitemap: https://ferraplaycasino.co.uk/sitemap.xml
